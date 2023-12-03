@@ -277,6 +277,68 @@ header p span{
     background: #FFF;
     padding: 10px 20px;
 }
+.findItem{
+    margin-bottom: 30px;
+}
+.popularP{
+    color: #9A9EA7;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: -0.1px;
+    margin-bottom: 50px;
+}
+.findItem img{
+    width: 40px;
+    height: 40px;
+}
+.findDes{
+    margin-left: 15px;
+}
+.findDesP{
+    color: #0D0A19;
+    font-family:' Inter';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+}
+.findDesN{
+    color: #9A9EA7;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: -0.1px;
+    margin-top: -15px;
+}
+.marginArrow{
+    margin-left: 145px;
+    width: 20px;
+    left: 20px;
+    color: #7963F0;
+}
+.findDesP1{
+    color: #0D0A19;
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+}
+.popularP1{
+    color: #9A9EA7;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: -0.1px;
+    margin-bottom: 20px;
+}
 
 /* medea query */
 @media all and (max-width:768px){
